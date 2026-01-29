@@ -1,7 +1,9 @@
 ## Hi there! 👋
 
-### GitHub Stats
+--- 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rachiminoff&show_icons=true&count_private=true&theme=radical)
+## GitHub Stats 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-alpha-kohl-77.vercel.app/api?username=Rachiminoff&show_icons=true&count_private=true&theme=radical) 
+![Top Languages](https://github-readme-stats-alpha-kohl-77.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&count_private=true&theme=radical) 
+![Profile Views](https://komarev.com/ghpvc/?username=Rachiminoff)
