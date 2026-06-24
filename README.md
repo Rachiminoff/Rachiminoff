@@ -88,7 +88,12 @@ print(me.philosophy())
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react, react native, nodejs,express,python,java,mysql,godot,vercel,git,github,figma&perline=7" />
+<marquee behavior="scroll" direction="left" scrollamount="5">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,java,mysql,godot,vercel,git,github,figma&perline=8" />
+
+</marquee>
+
 </div>
 
 
