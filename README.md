@@ -64,17 +64,16 @@ print(me.philosophy())
 
 <td width="45%" valign="top">
 
-## Currently
+## Beyond Code
 
-🚀 Building full-stack applications
+🎮 **Games & Interactive Experiences**  
+Exploring games as both entertainment and a form of creative design.
 
-🎨 Designing cleaner user experiences
+📖 **Stories & Worldbuilding**  
+Reading manga, novels, and visual novels while appreciating character writing and storytelling.
 
-⚙️ Creating automation workflows
-
-📚 Improving software engineering practices
-
-💡 Exploring better ways to turn ideas into products
+🧩 **Analysis & Curiosity**  
+Enjoying discussions about ideas, narratives, and the details that make things meaningful.
 
 </td>
 
