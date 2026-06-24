@@ -88,8 +88,7 @@ print(me.philosophy())
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,java,mysql,git,github,figma&perline=7" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,java,mysql,godot,vercel,git,github,figma&perline=7" />
 </div>
 
 
