@@ -24,7 +24,7 @@ Focused on creating software that is <b>functional, maintainable, and enjoyable 
 
 ---
 
-## ⚡ About Me
+## About Me
 
 <table>
 <tr>
@@ -84,7 +84,7 @@ print(me.philosophy())
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -95,7 +95,7 @@ print(me.philosophy())
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -108,7 +108,7 @@ print(me.philosophy())
 
 ---
 
-## 🌱 Development Philosophy
+## Development Philosophy
 
 <div align="center">
 
