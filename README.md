@@ -1,46 +1,41 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanya+Denise+Yambao;Full-Stack+Developer;Building+Meaningful+Digital+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rachiminoff;Full-Stack+Developer;Building+Clean+%26+Scalable+Systems" />
+
+<br/>
 
 <p>
-<b>Computer Science Student</b> • <b>Full-Stack Developer</b> • <b>UI/UX Enthusiast</b>
-</p>
-
-<p>
-I build responsive applications, automation tools, and interactive experiences.<br/>
-Focused on creating systems that are <b>functional, maintainable, and enjoyable to use.</b>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-111827?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-111827?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 <br/>
 
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</a>
+<p>
+I build responsive applications, automation systems, and interactive experiences.<br/>
+Focused on creating software that is <b>functional, maintainable, and enjoyable to use.</b>
+</p>
 
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
 </div>
 
-## GitHub Stats 
-
-![GitHub Stats](https://github-readme-stats-alpha-kohl-77.vercel.app/api?username=Rachiminoff&show_icons=true&count_private=true&theme=radical) 
-![Top Languages](https://github-readme-stats-alpha-kohl-77.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&count_private=true&theme=radical) 
 
 ---
 
-## About Me
+## ⚡ About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ```python
 class Developer:
     def __init__(self):
         self.name = "Tanya Denise Yambao"
         self.role = "Full-Stack Developer"
+
         self.focus = [
             "Web Applications",
             "Automation Systems",
@@ -48,17 +43,82 @@ class Developer:
             "Interactive Experiences"
         ]
 
-        self.mindset = "Build with purpose. Improve with consistency."
+        self.mindset = (
+            "Build with purpose. "
+            "Improve through consistency."
+        )
 
     def philosophy(self):
         return (
-            "I enjoy the process of building, debugging, "
-            "and refining systems until they become reliable experiences."
+            "I enjoy designing, building, debugging, "
+            "and refining systems until they become "
+            "reliable experiences."
         )
 
 
 me = Developer()
 print(me.philosophy())
---- 
+```
+
+</td>
+
+<td width="45%" valign="top">
+
+## Currently
+
+🚀 Building full-stack applications
+
+🎨 Designing cleaner user experiences
+
+⚙️ Creating automation workflows
+
+📚 Improving software engineering practices
+
+💡 Exploring better ways to turn ideas into products
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,java,mysql,git,github,figma&perline=7" />
+
+</div>
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api?username=Rachiminoff&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+## 🌱 Development Philosophy
+
+<div align="center">
+
+> Good software is not only about making things work.
+>
+> It is about creating systems that are understandable, reliable,  
+> and pleasant for people to use.
+
+</div>
+
+
 
 
