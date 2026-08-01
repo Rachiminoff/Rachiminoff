@@ -86,7 +86,21 @@ Enjoying discussions about software, fiction, design, and the small details that
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,next,nodejs,express,php,laravel,python,java,mysql,supabase,git,github,figma,vercel,vite,godot&perline=7" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,php,html,css,scss&perline=8" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=6" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,supabase,mysql&perline=6" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,godot&perline=6" />
 
 </div>
 
@@ -102,13 +116,17 @@ Enjoying discussions about software, fiction, design, and the small details that
 
 ---
 
-# GitHub Analytics
+# GitHub Snapshot
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api?username=Rachiminoff&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rachiminoff&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -118,10 +136,15 @@ Enjoying discussions about software, fiction, design, and the small details that
 
 <div align="center">
 
-> ### “Software isn't just about making things work.”
->
-> **It's about creating systems that are understandable, reliable, maintainable, and enjoyable to use.**
->
-> — *Rachiminoff*
+```console
+$ philosophy
+
+Software isn't just about making things work.
+
+It's about creating systems that are understandable,
+reliable, maintainable, and enjoyable to use.
+
+— Rachiminoff
+```
 
 </div>
