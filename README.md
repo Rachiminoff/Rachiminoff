@@ -1,144 +1,156 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rachiminoff;Full-Stack+Developer;Building+Thoughtful+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hi,+I'm+Rachiminoff;Full-Stack+Developer;Building+Thoughtful+Digital+Experiences" />
 
-<br/>
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-111827?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=for-the-badge&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Focused-111827?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Computer%20Science%20Student-111827?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Focused-111827?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Always%20Learning-111827?style=for-the-badge&logo=github&logoColor=white"/>
 
-<br/>
+<br><br>
 
-> Designing and building software that values **clarity, reliability, and user experience.**
+> Designing software with an emphasis on **clarity, reliability, and user experience.**
 
 </div>
 
 ---
-# About Me
 
-```console
-$ python
+```powershell
+Microsoft Windows [Version 11.0.26100.4652]
+(c) Microsoft Corporation. All rights reserved.
 
-Python 3.13.0 (main, Jul 15 2026)
-Type "help", "copyright", "credits" or "license" for more information.
-
->>> from developer import Developer
->>> me = Developer()
-
->>> me.name
-'Rachiminoff'
-
->>> me.role
-'Full-Stack Developer'
-
->>> me.focus
-[
-    'Modern Web Applications',
-    'Backend Development',
-    'Automation Systems',
-    'UI/UX',
-    'Interactive Experiences'
-]
-
->>> me.values
-[
-    'Readable Code',
-    'Scalable Systems',
-    'Attention to Detail',
-    'Continuous Learning'
-]
-
->>> me.beyond_code()
-
-{
-    'games':
-        'Interested in game design, player experience, and interactive systems.',
-
-    'stories':
-        'Reading manga, light novels, and visual novels with a focus on
-         character writing and worldbuilding.',
-
-    'analysis':
-        'Enjoy discussions about software, design, and the small details
-         that make systems memorable.'
-}
-
->>> me.philosophy()
-
-'I enjoy designing, building, debugging, and refining systems until they become reliable experiences.'
-
->>> exit()
-$
+C:\Users\Visitor>
 ```
+
+```powershell
+PS C:\Users\Visitor> cd Portfolio
+
+PS C:\Users\Visitor\Portfolio> Get-Profile
+
+
+Name        : Rachiminoff
+Role        : Full-Stack Developer
+Education   : B.S. Computer Science
+Location    : Philippines
+
+Focus
+-----
+• Modern Web Applications
+• Backend Development
+• Automation Systems
+• UI/UX
+• Interactive Experiences
+
+Interests
+---------
+• Games & Interactive Experiences
+• Light Novels & Worldbuilding
+• Software Architecture
+• Design Systems
+
+Values
+------
+• Readable Code
+• Scalable Systems
+• Attention to Detail
+• Continuous Learning
+
+Philosophy
+----------
+Build software that's understandable,
+maintainable, and enjoyable to use.
+```
+
 ---
 
-# Tech Stack
-
-<div align="center">
+```powershell
+PS C:\Users\Visitor\Portfolio> Get-TechStack
+```
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,python,php,html,css,scss&perline=8" />
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=6" />
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,supabase,mysql&perline=6" />
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,godot&perline=6" />
-
-</div>
-
----
-
-# Currently Exploring
-
-- Clean software architecture
-- Performance optimization
-- Modern UI/UX and micro-interactions
-- Backend API design
-- Developer tooling and automation
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
 
-# GitHub Snapshot
+```powershell
+PS C:\Users\Visitor\Portfolio> Get-Roadmap
+
+Status    Topic
+------    -----------------------------------
+
+[✓]       Clean Architecture
+
+[✓]       Backend API Design
+
+[✓]       Performance Optimization
+
+[...]     Distributed Systems
+
+[...]     Cloud Infrastructure
+
+[...]     DevOps
+```
+
+---
+
+```powershell
+PS C:\Users\Visitor\Portfolio> git status
+```
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api?username=Rachiminoff&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&count_private=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rachiminoff&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats-alpha-kohl-77.vercel.app/api/top-langs/?username=Rachiminoff&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# Development Philosophy
+```powershell
+PS C:\Users\Visitor\Portfolio> type philosophy.txt
 
-<div align="center">
+Good software doesn't draw attention to itself.
 
-```console
-$ philosophy
+It quietly solves problems through
+clarity,
+consistency,
+and thoughtful design.
 
-Software isn't just about making things work.
+Technology evolves.
 
-It's about creating systems that are understandable,
-reliable, maintainable, and enjoyable to use.
-
-— Rachiminoff
+Good engineering principles remain.
 ```
 
-</div>
+```powershell
+PS C:\Users\Visitor\Portfolio> _
+```
