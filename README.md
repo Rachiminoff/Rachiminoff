@@ -18,68 +18,62 @@
 </div>
 
 ---
-
 # About Me
 
-<table>
-<tr>
+```console
+$ python
 
-<td width="55%">
+Python 3.13.0 (main, Jul 15 2026)
+Type "help", "copyright", "credits" or "license" for more information.
 
-```python
-class Developer:
+>>> from developer import Developer
+>>> me = Developer()
 
-    def __init__(self):
-        self.name = "Rachiminoff"
-        self.role = "Full-Stack Developer"
+>>> me.name
+'Rachiminoff'
 
-        self.focus = [
-            "Modern Web Applications",
-            "Automation Systems",
-            "Backend Development",
-            "UI/UX",
-            "Interactive Experiences"
-        ]
+>>> me.role
+'Full-Stack Developer'
 
-        self.values = [
-            "Readable Code",
-            "Scalable Systems",
-            "Continuous Learning",
-            "Attention to Detail"
-        ]
+>>> me.focus
+[
+    'Modern Web Applications',
+    'Backend Development',
+    'Automation Systems',
+    'UI/UX',
+    'Interactive Experiences'
+]
 
-    def philosophy(self):
-        return (
-            "I enjoy designing, building, debugging, "
-            "and refining systems until they become "
-            "reliable experiences."
-        )
+>>> me.values
+[
+    'Readable Code',
+    'Scalable Systems',
+    'Attention to Detail',
+    'Continuous Learning'
+]
 
+>>> me.beyond_code()
 
-me = Developer()
-print(me.philosophy())
+{
+    'games':
+        'Interested in game design, player experience, and interactive systems.',
+
+    'stories':
+        'Reading manga, light novels, and visual novels with a focus on
+         character writing and worldbuilding.',
+
+    'analysis':
+        'Enjoy discussions about software, design, and the small details
+         that make systems memorable.'
+}
+
+>>> me.philosophy()
+
+'I enjoy designing, building, debugging, and refining systems until they become reliable experiences.'
+
+>>> exit()
+$
 ```
-
-</td>
-
-<td width="45%" valign="top">
-
-## Beyond Code
-
-🎮 **Games & Interactive Experiences**  
-Exploring games not only as entertainment, but also as a medium for design, storytelling, and player experience.
-
-📖 **Stories & Worldbuilding**  
-Reading manga, light novels, visual novels, and appreciating compelling characters, worldbuilding, and narrative design.
-
-🧩 **Analysis & Curiosity**  
-Enjoying discussions about software, fiction, design, and the small details that make systems and stories memorable.
-
-</td>
-
-</tr>
-</table>
-
 ---
 
 # Tech Stack
